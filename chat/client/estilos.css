@@ -1,0 +1,35 @@
+#messages{
+    width: 95%;
+    max-width: 400px;
+    height: 350px;
+    overflow-y: scroll;
+    border: 1px solid #17202A;
+    box-shadow: 0px 0px 20px #C9804F inset;
+}
+.message{
+    margin: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #17202A;
+    background: #17202A ;
+}
+
+#submit {
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px;
+    margin: 0 10px 20px 0;
+    border: 1px solid #ccc;
+    background: #eee;
+    border-radius: 8px 8px 8px 8px;
+}
+
+#submit:hover {
+    background: #ddd;
+}
+
+*{
+    background: #212F3C;
+    font-family: Verdana;
+    color: #EDBB99   ;
+}

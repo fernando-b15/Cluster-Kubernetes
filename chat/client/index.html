@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chat App</title>
+  <script type="text/javascript" src="/socket.io/socket.io.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="main.js"></script>
+</head>
+<body>
+  <form action="/room" method="POST">
+    <input id="nameroom" name="room" type="text" required>
+    <button id="submit" type="submit">New Room</button>
+  </form>
+</body>
+</html>
