@@ -17,3 +17,5 @@ Para nuestro montaje de proyecto realizaremos la imple-mentacion de un pequeño 
 Para saber mas sobre desarrrollo del proyecto lea el siguinte articulo [Articulo](https://github.com/fernando-b15/Cluster-Kubernetes/blob/master/Articulo_Arep.pdf)
 
 # Licencia
+
+Este proyecto cuenta con la siguinte [MIT LICENSE](https://github.com/fernando-b15/Cluster-Kubernetes/blob/master/LICENSE)
