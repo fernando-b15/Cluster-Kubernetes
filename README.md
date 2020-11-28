@@ -6,7 +6,7 @@
    
 # Descripcion del proyecto
 
-Para nuestro montaje de proyecto realizaremos la imple-mentacion de un pequeño cluster en AWS haciendo uso delservicio Amazon Eks ,el Cluster contara con tres nodos tra-bajadores  correspondiente  a  tres  servicios  de  la  aplicacionque seran el servicio de login ,servicio de chat y servicio deregistro estos tres servicios seran deplegados en serveless deAmazon Forgate.
+Para nuestro montaje de proyecto realizaremos la implementacion de un pequeño cluster en AWS haciendo uso delservicio Amazon Eks ,el Cluster contara con tres nodos trabajadores  correspondiente  a  tres  servicios  de  la  aplicacionque seran el servicio de login ,servicio de chat y servicio de registro estos tres servicios seran deplegados en serveless de Amazon Forgate.
 
 # Arquitectura
 
